@@ -1,4 +1,4 @@
-Voici un travail pratique sur la génération de clés SSH sous Linux. Ce travail peut être divisé en plusieurs étapes avec des objectifs précis pour chaque partie, permettant aux apprenants de comprendre comment créer, gérer et utiliser les clés SSH pour une connexion sécurisée.
+Voici un travail pratique sur la génération de clés SSH sous Linux. Ce travail est divisé en plusieurs étapes avec des objectifs précis pour chaque partie, permettant aux apprenants de comprendre comment créer, gérer et utiliser les clés SSH pour une connexion sécurisée.
 
 ### Objectif du travail pratique
 Apprendre à générer, gérer et utiliser les clés SSH pour sécuriser les connexions entre machines sous Linux.
